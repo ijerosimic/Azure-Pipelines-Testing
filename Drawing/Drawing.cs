@@ -5,7 +5,7 @@ namespace Widget
 {
     public class Drawing
     {
-        public List<WidgetBase> Widgets { get; set; }
+        List<WidgetBase> Widgets { get; set; }
 
         public Drawing()
         {
