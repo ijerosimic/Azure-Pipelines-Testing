@@ -32,3 +32,8 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+
+jobs:
+    -job: Debug
+    steps: 
+    - script: echo hello from the Debug Build
