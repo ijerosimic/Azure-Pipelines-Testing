@@ -14,7 +14,7 @@ namespace Widget
             Print(drawing);
         }
 
-        public static void Print(Drawing drawing)
+        public static void Print()
         {
             Console.WriteLine("Widgets:");
 
