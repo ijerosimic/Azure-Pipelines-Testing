@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor Jerosimić\\source\\repos\\Pipelines\\Pipelines\\Pipelines.csproj",
-      "projectName": "Pipelines",
-      "projectPath": "C:\\Users\\Igor Jerosimić\\source\\repos\\Pipelines\\Pipelines\\Pipelines.csproj",
+      "projectUniqueName": "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\Widget.csproj",
+      "projectName": "Widget",
+      "projectPath": "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\Widget.csproj",
       "packagesPath": "C:\\Users\\Igor Jerosimić\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Igor Jerosimić\\source\\repos\\Pipelines\\Pipelines\\obj\\",
+      "outputPath": "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
