@@ -11,8 +11,15 @@ namespace Widget
 
             drawing.Add(new Circle(5, 10));
 
-            foreach (var widget in drawing.Print())
-                Console.WriteLine(widget);
+            Print(drawing);
+        }
+
+        public static void Print()
+        {
+            Console.WriteLine("Widgets:");
+
+            foreach (var widget in drawing.GetWidgets())
+                Console.WriteLine(widget.Display());
         }
     }
 }

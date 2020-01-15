@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 namespace Widget
 {
@@ -17,10 +18,9 @@ namespace Widget
             Widgets.Add(widget);
         }
 
-        public IEnumerable<string> Print()
+        public List<WidgetBase> GetWidgets()
         {
-            foreach (var widget in Widgets)
-                yield return widget.Display();
+            return Widgets;
         }
     }
 }

@@ -8,3 +8,4 @@ C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\obj\Debug\
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\obj\Debug\netcoreapp3.1\Widget.AssemblyInfo.cs
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\obj\Debug\netcoreapp3.1\Widget.dll
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\obj\Debug\netcoreapp3.1\Widget.pdb
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\obj\Debug\netcoreapp3.1\Widget.csprojAssemblyReference.cache
