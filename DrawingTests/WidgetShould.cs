@@ -11,7 +11,7 @@ namespace DrawingTests
         {
             var circle = new Circle(5, 10);
 
-            Assert.IsAssignableFrom<WidgetBase>(circle);
+           Assert.IsAssignableFrom<WidgetBase>(circle);
         }
     }
 }
