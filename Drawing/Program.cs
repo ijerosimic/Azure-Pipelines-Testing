@@ -1,7 +1,7 @@
-﻿using System;
-using Widget.Widgets;
+﻿using DrawingApp.Widgets.Shapes;
+using System;
 
-namespace Widget
+namespace DrawingApp
 {
     class Program
     {
@@ -9,17 +9,25 @@ namespace Widget
         {
             var drawing = new Drawing();
 
-            drawing.Add(new Circle(5, 10));
+            drawing.Add(new Rectangle(10, 10, 30, 40));
+            drawing.Add(new Square(-1, 30, 35));
+            drawing.Add(new Ellipse(100, 150, 1, 200));
+            drawing.Add(new Circle(1, 1, 300));
+            drawing.Add(new TextBox(5, 5, 200, 100, null));
 
             Print(drawing);
         }
 
-        public static void Print(Drawing drawing)
+        static void Print(Drawing drawing)
         {
-            Console.WriteLine("Widgets:");
+            var widgets = drawing.GetWidgets();
 
-            foreach (var widget in drawing.GetWidgets())
-                Console.WriteLine(widget.Display());
+            Console.WriteLine("----------------------");
+            Console.WriteLine("Requested drawing");
+            Console.WriteLine("----------------------");
+
+            foreach (var w in widgets)
+                Console.WriteLine(w.Display());
         }
     }
 }

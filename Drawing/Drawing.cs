@@ -1,26 +1,30 @@
-﻿using System;
+﻿using DrawingApp.Widgets;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-namespace Widget
+
+namespace DrawingApp
 {
     public class Drawing
     {
-        List<WidgetBase> Widgets { get; set; }
+        List<Widget> _widgets;
 
         public Drawing()
         {
-            Widgets = new List<WidgetBase>();
+            _widgets = new List<Widget>();
         }
 
-        public void Add(WidgetBase widget)
+        public void Add(Widget widget)
         {
-            Widgets.Add(widget);
+            _widgets.Add(widget);
         }
 
-        public List<WidgetBase> GetWidgets()
+        //I have decided that Print()
+        //should only return a list of Widgets
+        //to not be dependent on Console
+        //and let the user of the class decide
+        //how to use the list of widgets
+        public List<Widget> GetWidgets()
         {
-            return Widgets;
+            return _widgets;
         }
     }
 }

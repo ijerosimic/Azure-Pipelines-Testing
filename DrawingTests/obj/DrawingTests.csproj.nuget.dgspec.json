@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\Widget.csproj": {
-                "projectPath": "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\Widget.csproj"
+              "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\DrawingApp.csproj": {
+                "projectPath": "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\DrawingApp.csproj"
               }
             }
           }
@@ -77,16 +77,16 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\Widget.csproj": {
+    "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\DrawingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\Widget.csproj",
-        "projectName": "Widget",
-        "projectPath": "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\Widget.csproj",
+        "projectUniqueName": "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\DrawingApp.csproj",
+        "projectName": "DrawingApp",
+        "projectPath": "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\DrawingApp.csproj",
         "packagesPath": "C:\\Users\\Igor Jerosimić\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Igor Jerosimić\\source\\repos\\Azure-Pipelines-Testing\\Drawing\\obj\\",
         "projectStyle": "PackageReference",
@@ -132,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

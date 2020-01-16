@@ -1,4 +1,3 @@
-C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\Widget.exe
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
@@ -87,11 +86,12 @@ C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\D
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\Widget.dll
-C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\Widget.pdb
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\obj\Debug\netcoreapp3.1\DrawingTests.csprojAssemblyReference.cache
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\obj\Debug\netcoreapp3.1\DrawingTests.AssemblyInfoInputs.cache
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\obj\Debug\netcoreapp3.1\DrawingTests.AssemblyInfo.cs
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\obj\Debug\netcoreapp3.1\DrawingTests.csproj.CopyComplete
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\obj\Debug\netcoreapp3.1\DrawingTests.dll
 C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\obj\Debug\netcoreapp3.1\DrawingTests.pdb
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\DrawingApp.exe
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\DrawingApp.dll
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\DrawingTests\bin\Debug\netcoreapp3.1\DrawingApp.pdb
