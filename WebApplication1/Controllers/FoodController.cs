@@ -14,7 +14,7 @@ namespace WebApplication1.Controllers
         // GET: Food
         public ActionResult<string> Get()
         {
-            return "GET YOUR FOOD HERE!";
+            return "cheap food here!";
         }
     }
 }
